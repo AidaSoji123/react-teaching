@@ -1,5 +1,5 @@
 import React from 'react'
-import Display from './components/TestPage/Display'
+// import Display from './components/TestPage/Display'
 
 
 const App = () => {
@@ -8,7 +8,7 @@ const App = () => {
 
 
       {/* <h1>Main App</h1> */}
-      <Display/>
+      {/* <Display/> */}
     
 
     </div>

@@ -1,5 +1,12 @@
 import React from "react";
-import Statehook from "../Topics/9-useState Hook/Statehook";
+// import DataFetch from "../Topics/11-Data Fetch/DataFetch";
+// import JsonData from "../Topics/11-Data Fetch/JsonData";
+// import Head from "../Topics/12-contextAPI/Head";
+// import Counterv2 from "../Topics/10-useEffectHook/Counterv2";
+// import Dropdown from "../Topics/10-useEffectHook/Dropdown";
+// import TodoV3 from "../Projects/4-TodoApp with props/TodoV3";
+// import BasicState from "../Topics/9-useState Hook/BasicState";
+// import Statehook from "../Topics/9-useState Hook/Statehook";
 // import TodoV2 from "../Projects/3-Todo App with props/TodoV2";
 // import Example from "../Topics/7-Conditional Rendering/Example";
 // import Parent from "../Topics/8-Props/Parent";
@@ -77,7 +84,32 @@ const Display = () => {
       {/* topic-9 */}
       {/* --------------------------------- */}
 
-      <Statehook/>
+      {/* <BasicState/> */}
+      {/* <Statehook/> */}
+
+      {/* project-4 */}
+      {/* --------------------------------- */}
+
+      {/* <TodoV3/> */}  {/* not correccted  */}
+
+      
+      {/* topic-10 */}
+      {/* --------------------------------- */}
+
+      {/* <Dropdown/> */}
+      {/* <Counterv2/> */}
+
+      {/* topic-11 */}
+      {/* --------------------------------- */}
+      {/* <DataFetch/> */}
+      {/* <JsonData/> */}
+
+      
+      {/* topic-12 */}
+      {/* --------------------------------- */}
+      {/* <Head/> */}
+
+
     </div>
   );
 };
